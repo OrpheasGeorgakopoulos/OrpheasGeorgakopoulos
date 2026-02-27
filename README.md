@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋| Hey there, I'm Orpheas!<br>🎯| Young Coder • Penetration Tester • PCB Lover<br><br>🚀 Me:<br>I'm a passionate young programmer from Greece who loves bringing ideas to life through code, electronics, and pcbs. Whether I'm coding tools or designing PCBs, I'm always exploring something new!<br><br>🥇 TES Awards 2025 – Junior Achievement Greece<br>🚀Role: IT & Lead Coder<br>📢 Honored among Europe’s top 10 schools!<br>[🔗 Read more here](https://jaeurope.org/celebrating-entrepreneurial-excellence-10-schools-across-europe-honored-in-2025-tes-awards/)<br><br>💡 What I Love:<br>💻 Building tools and useful software.<br>🔧 Creating pentesting gadgets.<br>⚡ Tinkering with circuits & microcontrollers.<br>🧠 Learning new tech and security tricks
+👋| Hey there, I'm Orpheas!<br>🎯| Young Coder • Penetration Tester • PCB Lover<br><br>🚀 Me:<br>I'm a passionate young programmer from Greece who loves bringing ideas to life through code, electronics, and pcbs. Whether I'm coding tools or designing PCBs, I'm always exploring something new!<br><br>💡 What I Love:<br>💻 Building tools and useful software.<br>🔧 Creating pentesting gadgets.<br>⚡ Tinkering with circuits & microcontrollers.<br>🧠 Learning new tech and security tricks
 
 
 ## 🌐 Socials:
